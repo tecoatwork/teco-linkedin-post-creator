@@ -1,0 +1,6 @@
+interface:
+  display_name: "teco-linkedin-post-creator"
+  short_description: "根据主题和事实制作 LinkedIn 帖子、相关标签及按需生成的真实配图文件"
+  default_prompt: "Use $teco-linkedin-post-creator to turn my topic and supporting information into a LinkedIn post, relevant hashtags, and an image unless I supply or choose my own."
+policy:
+  allow_implicit_invocation: true
